@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+# it is a small project to prctice dynamic route in Next.js 
+
 ## Getting Started
 
 First, run the development server:
